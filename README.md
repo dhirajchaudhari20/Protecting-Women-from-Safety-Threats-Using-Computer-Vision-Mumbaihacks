@@ -10,17 +10,11 @@ This project aims to address the issue of women's safety in urban environments b
 
 ### Public Service
 
-Our country needs to make public spaces safer. Can an AI-powered system solve for reducing the rate of crimes against women? How can we use the power of AI to tackle societal issues like governance, policy, inequality, and welfare, so that governments and public institutions can help us make the world a better place? This project was initiated as part of **Mumbai Hacks**, focusing on developing technology-driven solutions for women’s safety. The proposed solution aims to improve real-time threat detection using AI and alert systems integrated into a CCTV framework. Made at Mumbai Hacks  **Generative AI Hackathon 2024**.
+Our country needs to make public spaces safer. Can an AI-powered system solve for reducing the rate of crimes against women? How can we use the power of AI to tackle societal issues like governance, policy, inequality, and welfare, so that governments and public institutions can help us make the world a better place?
+
+This project was initiated as part of **Mumbai Hacks**, focusing on developing technology-driven solutions for women’s safety. The proposed solution aims to improve real-time threat detection using AI and alert systems integrated into a CCTV framework. Made at Mumbai Hacks  **Generative AI Hackathon 2024**.
 
 ---
-
-## How to Clone the Repository
-
-To clone the repository to your local machine, use the following command:
-
-```bash
-git clone https://github.com/iamdebasishdas123/Protecting-Women-from-Safety-Threats-Using-Computer-Vision.git
-```
 
 ---
 
@@ -70,7 +64,7 @@ The architecture of this project consists of multiple modules for detecting pers
 ---
 # Authors:
 ```bash
-Authors
+
 Team Name: Logic Lords
 Authors: Dhiraj Chaudhari, Omkar Nikam, Kshitij Dalvi, Kushal Mali
 Email: dhirajchaudhari@dcinfotech.me
